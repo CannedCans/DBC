@@ -1,2 +1,2 @@
 # Python-Desktop-Background-Changer
-Changes the desktop background to any picture from nasa's archive of daily astronomy pictures.
+Changes the desktop background to any picture from NASA's archive of daily astronomy pictures.
